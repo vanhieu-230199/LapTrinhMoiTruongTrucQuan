@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+c:\users\hieu\documents\visual studio 2017\Projects\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+c:\users\hieu\documents\visual studio 2017\Projects\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb

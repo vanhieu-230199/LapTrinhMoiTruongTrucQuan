@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\SoGaSoCho\SoGaSoCho\bin\Debug\SoGaSoCho.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\SoGaSoCho\SoGaSoCho\bin\Debug\SoGaSoCho.exe
+c:\users\hieu\documents\visual studio 2017\Projects\SoGaSoCho\SoGaSoCho\bin\Debug\SoGaSoCho.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\SoGaSoCho\SoGaSoCho\obj\Debug\SoGaSoCho.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\SoGaSoCho\SoGaSoCho\obj\Debug\SoGaSoCho.exe
+c:\users\hieu\documents\visual studio 2017\Projects\SoGaSoCho\SoGaSoCho\obj\Debug\SoGaSoCho.pdb

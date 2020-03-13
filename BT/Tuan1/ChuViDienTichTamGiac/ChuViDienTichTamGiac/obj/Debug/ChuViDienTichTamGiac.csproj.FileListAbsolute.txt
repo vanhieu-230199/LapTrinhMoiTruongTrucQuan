@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe
+c:\users\hieu\documents\visual studio 2017\Projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.exe
+c:\users\hieu\documents\visual studio 2017\Projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.pdb

@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe
+c:\users\hieu\documents\visual studio 2017\Projects\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.exe
+c:\users\hieu\documents\visual studio 2017\Projects\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.pdb

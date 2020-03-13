@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.exe
+c:\users\hieu\documents\visual studio 2017\Projects\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.exe
+c:\users\hieu\documents\visual studio 2017\Projects\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.pdb

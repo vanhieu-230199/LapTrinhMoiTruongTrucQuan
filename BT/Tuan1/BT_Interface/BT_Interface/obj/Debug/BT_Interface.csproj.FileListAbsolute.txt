@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\BT_Interface\BT_Interface\bin\Debug\BT_Interface.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\BT_Interface\BT_Interface\bin\Debug\BT_Interface.exe
+c:\users\hieu\documents\visual studio 2017\Projects\BT_Interface\BT_Interface\bin\Debug\BT_Interface.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\BT_Interface\BT_Interface\obj\Debug\BT_Interface.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\BT_Interface\BT_Interface\obj\Debug\BT_Interface.exe
+c:\users\hieu\documents\visual studio 2017\Projects\BT_Interface\BT_Interface\obj\Debug\BT_Interface.pdb

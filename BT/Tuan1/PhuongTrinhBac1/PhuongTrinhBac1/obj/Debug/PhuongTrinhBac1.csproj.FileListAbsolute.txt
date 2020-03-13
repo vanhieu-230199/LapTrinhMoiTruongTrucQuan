@@ -1,0 +1,5 @@
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.exe.config
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.exe
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.pdb
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.exe
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.pdb

@@ -1,0 +1,6 @@
+c:\users\hieu\documents\visual studio 2017\Projects\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe
+c:\users\hieu\documents\visual studio 2017\Projects\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.exe
+c:\users\hieu\documents\visual studio 2017\Projects\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.pdb
