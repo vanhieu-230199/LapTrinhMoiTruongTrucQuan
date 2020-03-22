@@ -1,0 +1,9 @@
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\bin\Debug\Module2_Bai8.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\bin\Debug\Module2_Bai8.exe
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\bin\Debug\Module2_Bai8.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\obj\Debug\Module2_Bai8.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\obj\Debug\Module2_Bai8.Form1.resources
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\obj\Debug\Module2_Bai8.Properties.Resources.resources
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\obj\Debug\Module2_Bai8.csproj.GenerateResource.Cache
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\obj\Debug\Module2_Bai8.exe
+c:\users\hieu\documents\visual studio 2017\Projects\Module2_Bai8\Module2_Bai8\obj\Debug\Module2_Bai8.pdb

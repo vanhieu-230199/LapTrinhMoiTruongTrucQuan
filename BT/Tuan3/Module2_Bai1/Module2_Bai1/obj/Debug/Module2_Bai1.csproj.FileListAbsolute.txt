@@ -1,0 +1,9 @@
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\bin\Debug\Module2_Bai1.exe.config
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\bin\Debug\Module2_Bai1.exe
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\bin\Debug\Module2_Bai1.pdb
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\obj\Debug\Module2_Bai1.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\obj\Debug\Module2_Bai1.Form1.resources
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\obj\Debug\Module2_Bai1.Properties.Resources.resources
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\obj\Debug\Module2_Bai1.csproj.GenerateResource.Cache
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\obj\Debug\Module2_Bai1.exe
+C:\Users\Hieu\Documents\Visual Studio 2017\Projects\MTTQ\Tuan3\Module2_Bai1\Module2_Bai1\obj\Debug\Module2_Bai1.pdb
